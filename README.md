@@ -5,8 +5,8 @@ Capturas online permanentes com o Archive.Today de capturas online permanentes c
 FAMÍLIA MATERNA:
 
 <image src="https://archive.ph/UcQT1/278b6c7c68977e5d20c996d30b0f06fe104b235e.jpg"/>
-(Endereço da captura online com o Archive.Today de captura online com o Waybak Machine: https://archive.ph/UcQT1/278b6c7c68977e5d20c996d30b0f06fe104b235e.jpg)
+(https://archive.ph/UcQT1/278b6c7c68977e5d20c996d30b0f06fe104b235e.jpg)
 FAMÍLIA PATERNA:
 
 <image src="https://archive.ph/UcQT1/0d0526f1b0553a52d6b321843236fca32a6ed4a0.jpg"/>
-(Endereço da captura online com o Archive.Today de captura online com o Waybak Machine: https://archive.ph/UcQT1/0d0526f1b0553a52d6b321843236fca32a6ed4a0.jpg)
+(https://archive.ph/UcQT1/0d0526f1b0553a52d6b321843236fca32a6ed4a0.jpg)
